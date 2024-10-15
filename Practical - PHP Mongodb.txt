@@ -1,0 +1,12 @@
+Download xampp server for PHP
+https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe
+
+Download php
+https://windows.php.net/downloads/releases/php-8.3.12-Win32-vs16-x64.zip
+
+Download mongodb connector
+https://downloads.php.net/~windows/pecl/releases/mongodb/1.20.0/php_mongodb-1.20.0-8.3-ts-vs16-x64.zip
+
+Download composer setup
+https://getcomposer.org/Composer-Setup.exe
+
